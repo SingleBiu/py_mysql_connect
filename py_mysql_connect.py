@@ -2,7 +2,7 @@
 Author: SingleBiu
 Date: 2024-11-14 20:10:36
 LastEditors: SingleBiu
-LastEditTime: 2024-11-16 21:51:42
+LastEditTime: 2024-11-16 22:15:50
 Description: A Python drive for MySQL connect.
 '''
 import pymysql
@@ -10,7 +10,8 @@ import pymysql
 mydb = pymysql.connect(
     host = "localhost",
     user = "root",
-    password = "zdcanonvv",
+    #REPLACE YOU OWN PASSWORD
+    password = "PASSWORD",
     database = "mydatabase"
 )
 
