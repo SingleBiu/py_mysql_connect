@@ -2,7 +2,7 @@
 Author: SingleBiu
 Date: 2024-11-14 20:10:36
 LastEditors: SingleBiu
-LastEditTime: 2024-11-16 22:15:50
+LastEditTime: 2024-11-16 22:18:47
 Description: A Python drive for MySQL connect.
 '''
 import pymysql
